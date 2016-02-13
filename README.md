@@ -12,7 +12,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [Aurelia](#aurelia)
  *  [Official Resources](#official-resources)
  *  [Community](#community)
- *  [Experts on personal blogs](#experts)
+ *  [Experts on personal blogs](#experts-on-personal-blogs)
  *  [Seed Project](#seed-project) 
  *  [Aurelia Cheatsheet](#aurelia-cheatsheet)
  *  [Aurelia Tutorials](#aurelia-tutorials)
@@ -21,8 +21,11 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  *  [Material Design](#material-design)
 * [TypeScrip](#typescript)
  * [TypeScript General Resources](#typeScript-general-resources)
- *  [Contributing](#contributing)
- *  
+ * [Seed Projects](#typescript-seed-projects)
+* [Aurelia in ES5](#es5)
+ * [Seed Projects](#es5-seed-projects) 
+* [Contributing](#contributing)
+  
 
 ### Aurelia
 
@@ -58,8 +61,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Seed Project
  - [Begginer kits](https://github.com/aurelia/beginner-kits) - Houses the beginner getting started started kits for ES 2016 and TypeScript.
- - [Aurelia Typescript](https://github.com/cmichaelgraham/aurelia-typescript) - A starter kit for working with the Aurelia TypeScript type definitions by @cmichaelgraham.
- - [ahmedshuhel/nav-app-es5](https://github.com/ahmedshuhel/nav-app-es5) Skeleton that sets up a standard aurelia navigation-style app just using ES5, Bower and RequireJS by @ahmedshuhel.
+ - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Cheatsheet
 - [Aurelia Getting Started Cheat Sheet by ErikCH](http://www.cheatography.com/erikch/cheat-sheets/aurelia-getting-started/)
@@ -84,6 +86,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  - [Official Aurelia Material Design (Github)](https://github.com/joelcoxokc/aurelia-interface) 
  - [aurelia-mdl](https://github.com/genadis/aurelia-mdl)
  - [aurelia-material](https://github.com/redpelicans/aurelia-material)
+ - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 ### TypeScript
 
@@ -94,6 +97,20 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  - [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser
  - [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
  - [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
+
+#### Typescript Seed Projects
+ - [Aurelia Typescript](https://github.com/cmichaelgraham/aurelia-typescript) - A starter kit for working with the Aurelia TypeScript type definitions by @cmichaelgraham.
+ - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
+
+### ES5
+
+> An ECMAScript language that includes structured, dynamic, functional, and prototype-based features.
+
+##### ES5 General Resources
+- [**{{** help_add_resources **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
+
+#### ES5 Seed Projects
+- [ahmedshuhel/nav-app-es5](https://github.com/ahmedshuhel/nav-app-es5) Skeleton that sets up a standard aurelia navigation-style app just using ES5, Bower and RequireJS by @ahmedshuhel.
 
 # Contributing
 Your contributions are always welcome!
