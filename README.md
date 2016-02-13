@@ -19,7 +19,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
     * [Aurelia Podcasts](#aurelia-podcasts)
     * [Aurelia Videos](#aurelia-videos)
  *  [Material Design](#material-design)
-* [TypeScrip](#typescript)
+* [TypeScript](#typescript)
  * [TypeScript General Resources](#typeScript-general-resources)
  * [Seed Projects](#typescript-seed-projects)
 * [Aurelia in ES5](#es5)
