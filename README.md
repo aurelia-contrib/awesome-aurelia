@@ -5,11 +5,21 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 ## Table of Contents
  *  [Official Resources](#official-resources)
+ *  [Community](#community)
+ *  [Contributing](#contributing)
 
 
 #### Official Resources
 - [Site](http://aurelia.io)
-- [Blog](blog.durandal.io)
+- [Blog](http://blog.durandal.io)
+- [Documentation](http://aurelia.io/docs.html)
+
+#### Community
+ - [Gitter Channel](https://gitter.im/Aurelia/Discuss)
+ - [Gitter Channel](https://gitter.im/cmichaelgraham/aurelia-typescript) for Aurelia TypeScript
+ - [Aurelia StackOverflow](http://stackoverflow.com/questions/tagged/aurelia)
+ - [Aurelia Hashnode](https://hashnode.com/ama/with-aurelia-team-cijv67apt000o535313ewe3qo?utm_source=AMA%20Reminder%20Email&utm_medium=email&utm_campaign=Notification%20Email)
+ - [`#aureliajs`](https://twitter.com/hashtag/aureliajs) hashtag on Twitter
 
 # Contributing
 Your contributions are always welcome!
