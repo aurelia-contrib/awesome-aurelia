@@ -12,29 +12,88 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [Aurelia](#aurelia)
  *  [Official Resources](#official-resources)
  *  [Community](#community)
+ *  [Experts on personal blogs](#experts)
+ *  [Seed Project](#seed-project) 
+ *  [Aurelia Cheatsheet](#aurelia-cheatsheet)
+ *  [Aurelia Tutorials](#aurelia-tutorials)
+    * [Aurelia Podcasts](#aurelia-podcasts)
+    * [Aurelia Videos](#aurelia-videos)
  *  [Material Design](#material-design)
+* [TypeScrip](#typescript)
+ * [TypeScript General Resources](#typeScript-general-resources)
  *  [Contributing](#contributing)
+ *  
 
 ### Aurelia
 
 > Aurelia is a next gen JavaScript client framework for mobile, desktop and web that leverages simple conventions to empower your creativity.
 
 #### Official Resources
-- [Site](http://aurelia.io)
-- [Blog](http://blog.durandal.io)
-- [Documentation](http://aurelia.io/docs.html)
+- [Official Site](http://aurelia.io)
+- [Official Blog](http://blog.durandal.io)
+- [Official Documentation](http://aurelia.io/docs.html)
+- [API Documentation](http://aurelia.io/docs.html#/api/home)
+- [Official Getting Started Guide](http://aurelia.io/docs.html#/aurelia/framework/latest/doc/article/getting-started)
+- [Official GitHub Repo](https://github.com/aurelia/framework)
+- [Rob Eisenberg on Twitter](https://twitter.com/eisenbergeffect)
 
 #### Community
+ - [`#aureliajs`](https://twitter.com/hashtag/aureliajs) hashtag on Twitter
  - [Gitter Channel](https://gitter.im/Aurelia/Discuss)
  - [Gitter Channel](https://gitter.im/cmichaelgraham/aurelia-typescript) for Aurelia TypeScript
  - [Aurelia StackOverflow](http://stackoverflow.com/questions/tagged/aurelia)
- - [Aurelia Hashnode](https://hashnode.com/ama/with-aurelia-team-cijv67apt000o535313ewe3qo?utm_source=AMA%20Reminder%20Email&utm_medium=email&utm_campaign=Notification%20Email)
- - [`#aureliajs`](https://twitter.com/hashtag/aureliajs) hashtag on Twitter
+ - [Aurelia AMA (Ask Me Anything)](https://hashnode.com/ama/with-aurelia-team-cijv67apt000o535313ewe3qo)
+ - [/r/Aureliajs Subreddit](http://www.reddit.com/r/aureliajs/)
+
+#### Experts on personal blogs
+-  [Personal blog of Aurelia developer Matthew James Davis](http://davismj.me/)
+- [Personal blog on Aurelia dev / Developer Jeremy Danyow](http://www.danyow.net/)
+- [Personal blog of Australian Front End / Aurelia Javascript Developer Dwayne Charrington](http://ilikekillnerds.com/category/javascript/aurelia/)
+- [Personal blog on Aurelia dev / Developer Patrick Walters aka 'PWKAD'](http://patrickwalters.net/)
+- [Personal blog on Aurelia dev / Developer Don Wilcox aka 'drdwilcox'](http://drdwilcox.blogspot.com/)
+- [Personal blog on Aurelia dev / Developer Michael Lambert](http://hobbit-on-aurelia.net/)
+- [Personal blog on Aurelia dev / Developer Sean Hunter](http://sean-hunter.io/)
+- [Personal blog on Aurelia dev / Developer 'Adriatic'](http://blog.aurelia-guides.com/)
+- [Personal blog on Aurelia dev / Developer Paul van Bladel](http://blog.opinionatedapps.com/)
+
+#### Seed Project
+ - [Begginer kits](https://github.com/aurelia/beginner-kits) - Houses the beginner getting started started kits for ES 2016 and TypeScript.
+ - [Aurelia Typescript](https://github.com/cmichaelgraham/aurelia-typescript) - A starter kit for working with the Aurelia TypeScript type definitions by @cmichaelgraham.
+ - [ahmedshuhel/nav-app-es5](https://github.com/ahmedshuhel/nav-app-es5) Skeleton that sets up a standard aurelia navigation-style app just using ES5, Bower and RequireJS by @ahmedshuhel.
+
+#### Aurelia Cheatsheet
+- [Aurelia Getting Started Cheat Sheet by ErikCH](http://www.cheatography.com/erikch/cheat-sheets/aurelia-getting-started/)
+
+#### Aurelia Tutorials
+- [Aurelia Value Converters](https://jdanyow.github.io/aurelia-converters-sample/)
+
+##### Aurelia Podcasts
+- 02.11.2016 [Adventures in Angular Podcast: Aurelia with Rob Eisenberg](https://devchat.tv/adventures-in-angular/080-aia-aurelia-with-rob-eisenberg)
+- 08.04.2015 [Herding Code 203: Rob Eisenberg on Aurelia](http://herdingcode.com/herding-code-203-rob-eisenberg-on-aurelia/)
+- 06.02.2015 [The Changelog #140: Aurelia, Durandal, and leaving AngularJS with Rob Eisenberg](http://5by5.tv/changelog/140)
+- 02.02.2015 [The Web Platform Podcast : 38: Aurelia.io](http://thewebplatform.libsyn.com/38-aureliaio)
+
+##### Aurelia Videos
+- 11/01/2016 [Rob Eisenberg | Aurelia: Next Generation Web Apps | NDC {London}](https://vimeo.com/153090562)
+- 12/16/2015 [Ashley Grant on Custom Components in Aurelia | Dev Chat](https://www.youtube.com/watch?v=KOCiYJAWXeQ)
+- 12/10/2015 [Jeremy Danyow on Binding | Readthesource 12](https://www.youtube.com/watch?v=NyxGZYgOCuo)
+- 12/09/2015 [Jakub Jedryszek | Aurelia - The next generation JavaScript framework you will love | SeattleCodeCamp](https://vimeo.com/152733803)
+- 11/12/2015 [Rob Eisenberg on Aurelia | DEVIntersection 2015 | Channel 9](https://channel9.msdn.com/Events/Seth-on-the-Road/DevIntersection-2015/Rob-Eisenberg-on-Aurelia)
 
 #### Material Design
  - [Official Aurelia Material Design (Github)](https://github.com/joelcoxokc/aurelia-interface) 
  - [aurelia-mdl](https://github.com/genadis/aurelia-mdl)
  - [aurelia-material](https://github.com/redpelicans/aurelia-material)
+
+### TypeScript
+
+> TypeScript lets you write JavaScript the way you really want to. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+
+#### TypeScript General Resources
+ - [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
+ - [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser
+ - [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
+ - [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
 
 # Contributing
 Your contributions are always welcome!
