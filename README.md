@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://angularclass.com" target="_blank">
+  <a href="https://github.com/behzad888/awesome" target="_blank">
     <img src="/media/aurelia-awesome.png" alt="Awesome Aurelia" />
   </a>
 </p>
