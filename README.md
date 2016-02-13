@@ -3,8 +3,13 @@
 
 A curated list of amazingly awesome Aurelia libraries, resources and shiny things.
 
-## Official
-- [Aurelia.io](http://aurelia.io)
+## Table of Contents
+ *  [Official Resources](#official-resources)
+
+
+#### Official Resources
+- [Site](http://aurelia.io)
+- [Blog](blog.durandal.io)
 
 # Contributing
 Your contributions are always welcome!
