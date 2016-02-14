@@ -119,5 +119,5 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 - [ahmedshuhel/nav-app-es5](https://github.com/ahmedshuhel/nav-app-es5) Skeleton that sets up a standard aurelia navigation-style app just using ES5, Bower and RequireJS by @ahmedshuhel.
 
 # Contributing
-Your contributions are always welcome!
+A lot of times, making a PR adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. There's no need to open a new PR, just edit the existing one. If you're not sure how to do that, here is a guide on the different ways you can update your PR so that we can merge it.
 
