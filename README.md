@@ -25,6 +25,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
     * [Aurelia Podcasts](#aurelia-podcasts)
     * [Aurelia Videos](#aurelia-videos)
  *  [Material Design](#material-design)
+ *  [Aurelia Plugins](#aurelia-plugins)
 * [TypeScript](#typescript)
  * [TypeScript General Resources](#typeScript-general-resources)
  * [Seed Projects](#typescript-seed-projects)
@@ -92,6 +93,13 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  - [Official Aurelia Material Design (Github)](https://github.com/joelcoxokc/aurelia-interface) 
  - [aurelia-mdl](https://github.com/genadis/aurelia-mdl)
  - [aurelia-material](https://github.com/redpelicans/aurelia-material)
+ - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
+
+#### Aurelia Plugins
+ - [token-based Authentication](https://github.com/paulvanbladel/aurelia-auth) - Authentication plugin for aurelia
+ - [aurelia-computed](https://github.com/jdanyow/aurelia-computed) - A plugin for Aurelia to observe computed properties without dirty-checking
+ - [aurelia-bs-modal](https://github.com/PWKad/aurelia-bs-modal) - Aurelia plugin for bootstrap modal
+ - [aurelia-bs-grid](https://github.com/charlespockert/aurelia-bs-grid) - Aurelia and Bootstrap powered datagrid control
  - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 ### TypeScript
