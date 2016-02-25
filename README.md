@@ -30,7 +30,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  * [Seed Projects](#typescript-seed-projects)
 * [Aurelia in ES5](#es5)
  * [Seed Projects](#es5-seed-projects) 
-* [Contributing](#contributing)
+* [Contributing](#contributing-guideline)
   
 
 ### Aurelia
