@@ -100,6 +100,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  - [aurelia-computed](https://github.com/jdanyow/aurelia-computed) - A plugin for Aurelia to observe computed properties without dirty-checking
  - [aurelia-bs-modal](https://github.com/PWKad/aurelia-bs-modal) - Aurelia plugin for bootstrap modal
  - [aurelia-bs-grid](https://github.com/charlespockert/aurelia-bs-grid) - Aurelia and Bootstrap powered datagrid control
+ - [aurelia-polymer](https://github.com/roguePanda/aurelia-polymer) - Aurelia plugin to support Polymer
  - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 ### TypeScript
