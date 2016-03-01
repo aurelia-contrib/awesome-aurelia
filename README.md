@@ -101,6 +101,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  - [aurelia-bs-modal](https://github.com/PWKad/aurelia-bs-modal) - Aurelia plugin for bootstrap modal
  - [aurelia-bs-grid](https://github.com/charlespockert/aurelia-bs-grid) - Aurelia and Bootstrap powered datagrid control
  - [aurelia-polymer](https://github.com/roguePanda/aurelia-polymer) - Aurelia plugin to support Polymer
+ - [aurelia-google-maps](https://github.com/Vheissu/aurelia-google-maps) - A highly configurable custom element for use in your Aurelia applications for inserting Google Maps into your application.
  - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 ### TypeScript
