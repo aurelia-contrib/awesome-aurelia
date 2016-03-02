@@ -67,7 +67,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 - [Personal blog on Aurelia dev / Developer Paul van Bladel](http://blog.opinionatedapps.com/)
 
 #### Seed Project
- - [Begginer kits](https://github.com/aurelia/beginner-kits) - Houses the beginner getting started started kits for ES 2016 and TypeScript.
+ - [Beginner kits](https://github.com/aurelia/beginner-kits) - Houses the beginner getting started started kits for ES 2016 and TypeScript.
  - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Cheatsheet
