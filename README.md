@@ -103,6 +103,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  - [aurelia-polymer](https://github.com/roguePanda/aurelia-polymer) - Aurelia plugin to support Polymer
  - [aurelia-google-maps](https://github.com/Vheissu/aurelia-google-maps) - A highly configurable custom element for use in your Aurelia applications for inserting Google Maps into your application
  - [webpack-plugin](https://github.com/aurelia/webpack-plugin) - A plugin for webpack that enables bundling Aurelia applications
+ - [aurelia-cycle](https://github.com/niieani/aurelia-cycle) - An Aurelia plugin that enables the use of Cycle.js inside of Aurelia
  - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 ### TypeScript
