@@ -26,6 +26,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
     * [Aurelia Videos](#aurelia-videos)
  *  [Material Design](#material-design)
  *  [Aurelia Plugins](#aurelia-plugins)
+ *  [Aurelia Libraries](#aurelia-libraries)
 * [TypeScript](#typescript)
  * [TypeScript General Resources](#typeScript-general-resources)
  * [Seed Projects](#typescript-seed-projects)
@@ -105,6 +106,10 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  - [webpack-plugin](https://github.com/aurelia/webpack-plugin) - A plugin for webpack that enables bundling Aurelia applications
  - [aurelia-cycle](https://github.com/niieani/aurelia-cycle) - An Aurelia plugin that enables the use of Cycle.js inside of Aurelia
  - [aurelia-kendoui-bridge](https://github.com/aurelia-ui-toolkits/aurelia-kendoui-bridge) - Aurelia - KendoUI integration
+ - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
+
+#### Aurelia Libraries
+ - [pollyfils](https://github.com/aurelia/polyfills) - The minimal set of polyfills needed to run Aurelia
  - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 ### TypeScript
