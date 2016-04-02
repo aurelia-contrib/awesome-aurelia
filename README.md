@@ -110,6 +110,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Libraries
  - [pollyfils](https://github.com/aurelia/polyfills) - The minimal set of polyfills needed to run Aurelia
+ - [aurelia-sails-socket-client](https://github.com/Mordred/aurelia-sails-socket-client) - A simple, restful, message-based wrapper around sails.io client
  - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 ### TypeScript
