@@ -100,6 +100,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  - [token-based Authentication](https://github.com/paulvanbladel/aurelia-auth) - Authentication plugin for aurelia
  - [aurelia-computed](https://github.com/jdanyow/aurelia-computed) - A plugin for Aurelia to observe computed properties without dirty-checking
  - [aurelia-bs-modal](https://github.com/PWKad/aurelia-bs-modal) - Aurelia plugin for bootstrap modal
+ - [aurelia-i18n](https://github.com/aurelia/i18n) - A plugin that provides i18n support
  - [aurelia-bs-grid](https://github.com/charlespockert/aurelia-bs-grid) - Aurelia and Bootstrap powered datagrid control
  - [aurelia-polymer](https://github.com/roguePanda/aurelia-polymer) - Aurelia plugin to support Polymer
  - [aurelia-google-maps](https://github.com/Vheissu/aurelia-google-maps) - A highly configurable custom element for use in your Aurelia applications for inserting Google Maps into your application
