@@ -101,6 +101,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  - [aurelia-computed](https://github.com/jdanyow/aurelia-computed) - A plugin for Aurelia to observe computed properties without dirty-checking
  - [aurelia-bs-modal](https://github.com/PWKad/aurelia-bs-modal) - Aurelia plugin for bootstrap modal
  - [aurelia-i18n](https://github.com/aurelia/i18n) - A plugin that provides i18n support
+ - [aurelia-ui-virtualization](https://github.com/aurelia/ui-virtualization) - A plugin that provides a virtualized repeater and other virtualization services
  - [aurelia-bs-grid](https://github.com/charlespockert/aurelia-bs-grid) - Aurelia and Bootstrap powered datagrid control
  - [aurelia-polymer](https://github.com/roguePanda/aurelia-polymer) - Aurelia plugin to support Polymer
  - [aurelia-google-maps](https://github.com/Vheissu/aurelia-google-maps) - A highly configurable custom element for use in your Aurelia applications for inserting Google Maps into your application
@@ -112,6 +113,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 #### Aurelia Libraries
  - [pollyfils](https://github.com/aurelia/polyfills) - The minimal set of polyfills needed to run Aurelia
  - [aurelia-sails-socket-client](https://github.com/Mordred/aurelia-sails-socket-client) - A simple, restful, message-based wrapper around sails.io client
+ - [aurelia-bundler](https://github.com/aurelia/bundler) - A library for bundling JavaScript, HTML and CSS for use with SystemJS
  - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 ### TypeScript
