@@ -109,6 +109,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  - [aurelia-cycle](https://github.com/niieani/aurelia-cycle) - An Aurelia plugin that enables the use of Cycle.js inside of Aurelia
  - [aurelia-kendoui-bridge](https://github.com/aurelia-ui-toolkits/aurelia-kendoui-bridge) - Aurelia - KendoUI integration
  - [aurelia-react-loader](https://github.com/bryanrsmith/aurelia-react-loader) - Load React components directly from Aurelia views
+ - [aurelia-view-pipeline](https://github.com/behzad888/aurelia-view-pipeline) - A plugin for loading any Markdown into custom element 
  - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Libraries
