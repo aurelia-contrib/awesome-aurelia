@@ -72,6 +72,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Tools
  - [Chrome Extension](https://chrome.google.com/webstore/detail/aurelia-context/cghchmoikhedpkkkdnljcfhikedoemma) - This tool is called "Aurelia Context"
+ - [vscode-aurelia-snippets](https://github.com/behzad888/vscode-aurelia-snippets) - HTML, JavaScript and TypeScript snippets for VSCode 
 
 #### Seed Project
  - [Beginner kits](https://github.com/aurelia/beginner-kits) - Houses the beginner getting started started kits for ES 2016 and TypeScript.
