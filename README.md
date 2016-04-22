@@ -19,6 +19,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  *  [Official Resources](#official-resources)
  *  [Community](#community)
  *  [Experts on personal blogs](#experts-on-personal-blogs)
+ *  [Aurelia Tools](#aurelia-tools)
  *  [Seed Project](#seed-project) 
  *  [Aurelia Cheatsheet](#aurelia-cheatsheet)
  *  [Aurelia Tutorials](#aurelia-tutorials)
@@ -68,6 +69,9 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 - [Personal blog on Aurelia dev / Developer Sean Hunter](http://sean-hunter.io/)
 - [Personal blog on Aurelia dev / Developer 'Adriatic'](http://blog.aurelia-guides.com/)
 - [Personal blog on Aurelia dev / Developer Paul van Bladel](http://blog.opinionatedapps.com/)
+
+#### Aurelia Tools
+ - [Chrome Extension](https://chrome.google.com/webstore/detail/aurelia-context/cghchmoikhedpkkkdnljcfhikedoemma) - This tool is called "Aurelia Context"
 
 #### Seed Project
  - [Beginner kits](https://github.com/aurelia/beginner-kits) - Houses the beginner getting started started kits for ES 2016 and TypeScript.
