@@ -26,6 +26,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
     * [Aurelia Videos](#aurelia-videos)
  *  [Material Design](#material-design)
  *  [Aurelia Plugins](#aurelia-plugins)
+ *  [Aurelia Custom Element](#aurelia-custom-element)
  *  [Aurelia Auth](#aurelia-auth)
  *  [Aurelia Libraries](#aurelia-libraries)
 * [TypeScript](#typescript)
@@ -112,6 +113,9 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  - [aurelia-react-loader](https://github.com/bryanrsmith/aurelia-react-loader) - Load React components directly from Aurelia views
  - [aurelia-view-pipeline](https://github.com/behzad888/aurelia-view-pipeline) - A plugin for loading any Markdown into custom element 
  - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
+
+#### Aurelia Custom Element
+ - [vGrid](https://github.com/vegarringdal/vGrid) - Grid custom element for Aurelia
 
 #### Aurelia Auth
  - [sentry](https://github.com/Foursails/sentry) - An Aurelia template with a built in authentication shell
