@@ -117,6 +117,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  - [aurelia-kendoui-bridge](https://github.com/aurelia-ui-toolkits/aurelia-kendoui-bridge) - Aurelia - KendoUI integration
  - [aurelia-react-loader](https://github.com/bryanrsmith/aurelia-react-loader) - Load React components directly from Aurelia views
  - [aurelia-view-pipeline](https://github.com/behzad888/aurelia-view-pipeline) - A plugin for loading any Markdown into custom element 
+ - [aurelia-routed-footer](https://github.com/drivesoftware/aurelia-routed-footer) - An Aurelia plugin which adds the ability to control footer content via the router
  - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Custom Element
