@@ -83,6 +83,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Tutorials
 - [Aurelia Value Converters](https://jdanyow.github.io/aurelia-converters-sample/)
+- [Aurelia-styleguide](https://github.com/behzad888/Aurelia-styleguide) - A starting point for Aurelia development teams to provide consistency through best practices. 
 
 ##### Aurelia Podcasts
 - 02.11.2016 [Adventures in Angular Podcast: Aurelia with Rob Eisenberg](https://devchat.tv/adventures-in-angular/080-aia-aurelia-with-rob-eisenberg)
