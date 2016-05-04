@@ -105,18 +105,18 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Plugins
- - [token-based Authentication](https://github.com/paulvanbladel/aurelia-auth) - Authentication plugin for aurelia
+ - [aurelia-auth](https://github.com/paulvanbladel/aurelia-auth) - Token-based authentication plugin for aurelia
  - [aurelia-computed](https://github.com/jdanyow/aurelia-computed) - A plugin for Aurelia to observe computed properties without dirty-checking
- - [aurelia-bs-modal](https://github.com/PWKad/aurelia-bs-modal) - Aurelia plugin for bootstrap modal
- - [aurelia-i18n](https://github.com/aurelia/i18n) - A plugin that provides i18n support
- - [aurelia-ui-virtualization](https://github.com/aurelia/ui-virtualization) - A plugin that provides a virtualized repeater and other virtualization services
+ - [aurelia-i18n](https://github.com/aurelia/i18n) {official} - A plugin that provides i18n support
+ - [aurelia-ui-virtualization](https://github.com/aurelia/ui-virtualization) {official} - A plugin that provides a virtualized repeater and other virtualization services
  - [aurelia-bs-grid](https://github.com/charlespockert/aurelia-bs-grid) - Aurelia and Bootstrap powered datagrid control
  - [aurelia-polymer](https://github.com/roguePanda/aurelia-polymer) - Aurelia plugin to support Polymer
  - [aurelia-google-maps](https://github.com/Vheissu/aurelia-google-maps) - A highly configurable custom element for use in your Aurelia applications for inserting Google Maps into your application
- - [webpack-plugin](https://github.com/aurelia/webpack-plugin) - A plugin for webpack that enables bundling Aurelia applications
+ - [webpack-plugin](https://github.com/aurelia/webpack-plugin) {official} - A plugin for webpack that enables bundling Aurelia applications
  - [aurelia-cycle](https://github.com/niieani/aurelia-cycle) - An Aurelia plugin that enables the use of Cycle.js inside of Aurelia
  - [aurelia-kendoui-bridge](https://github.com/aurelia-ui-toolkits/aurelia-kendoui-bridge) - Aurelia - KendoUI integration
  - [aurelia-react-loader](https://github.com/bryanrsmith/aurelia-react-loader) - Load React components directly from Aurelia views
+ - [aurelia-validatejs](https://github.com/aurelia/validatejs) {official} - Enables expressive validation using decorators and/or a fluent API.
  - [aurelia-view-pipeline](https://github.com/behzad888/aurelia-view-pipeline) - A plugin for loading any Markdown into custom element 
  - [aurelia-routed-footer](https://github.com/drivesoftware/aurelia-routed-footer) - An Aurelia plugin which adds the ability to control footer content via the router
  - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
