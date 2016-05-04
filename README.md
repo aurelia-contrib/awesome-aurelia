@@ -73,6 +73,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 #### Aurelia Tools
  - [Chrome Extension](https://chrome.google.com/webstore/detail/aurelia-context/cghchmoikhedpkkkdnljcfhikedoemma) - This tool is called "Aurelia Context"
  - [vscode-aurelia-snippets](https://github.com/behzad888/vscode-aurelia-snippets) - HTML, JavaScript and TypeScript snippets for VSCode 
+ - [aurelia-update](https://github.com/SpoonX/aurelia-update) - Update all aurelia dependencies easily. 
 
 #### Seed Project
  - [Beginner kits](https://github.com/aurelia/beginner-kits) - Houses the beginner getting started started kits for ES 2016 and TypeScript.
@@ -119,14 +120,18 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  - [aurelia-react-loader](https://github.com/bryanrsmith/aurelia-react-loader) - Load React components directly from Aurelia views
  - [aurelia-view-pipeline](https://github.com/behzad888/aurelia-view-pipeline) - A plugin for loading any Markdown into custom element 
  - [aurelia-routed-footer](https://github.com/drivesoftware/aurelia-routed-footer) - An Aurelia plugin which adds the ability to control footer content via the router
+ - [aurelia-api](https://github.com/SpoonX/aurelia-api) {ES6/TS/Webpack} - A wrapper around aurelia-fetch-client for multiple endpoints
+ - [aurelia-authentication](https://github.com/SpoonX/aurelia-authentication) {ES6/TS/Webpack} - Authentication plugin for aurelia with aurelia-api support.
+ - [aurelia-orm](https://github.com/SpoonX/aurelia-orm) {ES6/TS/Webpack} - Makes working with entities and calling your Rest API simple.
+ - [aurelia-notification](https://github.com/SpoonX/aurelia-aurelia-notification) {ES6/TS/Webpack} - Automatically translated notifications utilizing humane.js and i18n
  - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Custom Element
  - [vGrid](https://github.com/vegarringdal/vGrid) - Grid custom element for Aurelia
 
-#### Aurelia Auth
+#### Aurelia Auth Samples
  - [sentry](https://github.com/Foursails/sentry) - An Aurelia template with a built in authentication shell
- - [aurelia-authentication-loopback-sample](https://github.com/doktordirk/aurelia-authentication-loopback-sample) - Aurelia client sample with aurelia-authentication and loopback server
+ - [aurelia-authentication-loopback-sample](https://github.com/doktordirk/aurelia-authentication-loopback-sample) - Aurelia client sample with aurelia-authentication and loopback server (ES6/TS+jspm, ES6+webpack)
 
 #### Aurelia Libraries
  - [pollyfils](https://github.com/aurelia/polyfills) - The minimal set of polyfills needed to run Aurelia
