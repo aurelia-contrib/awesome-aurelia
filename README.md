@@ -98,6 +98,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 - 12/10/2015 [Jeremy Danyow on Binding | Readthesource 12](https://www.youtube.com/watch?v=NyxGZYgOCuo)
 - 12/09/2015 [Jakub Jedryszek | Aurelia - The next generation JavaScript framework you will love | SeattleCodeCamp](https://vimeo.com/152733803)
 - 11/12/2015 [Rob Eisenberg on Aurelia | DEVIntersection 2015 | Channel 9](https://channel9.msdn.com/Events/Seth-on-the-Road/DevIntersection-2015/Rob-Eisenberg-on-Aurelia)
+- [Brian Noyes | Aurelia Fundamentals on Pluralsight.com](https://www.pluralsight.com/courses/aurelia-fundamentals)
 
 #### Material Design
  - [Official Aurelia Material Design (Github)](https://github.com/joelcoxokc/aurelia-interface) 
