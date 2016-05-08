@@ -62,8 +62,9 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 #### Experts on personal blogs
 -  [Personal blog of Aurelia developer Matthew James Davis](http://davismj.me/)
 - [Personal blog on Aurelia dev / Developer Jeremy Danyow](http://www.danyow.net/)
-- [Personal blog of Australian Front End / Aurelia Javascript Developer Dwayne Charrington](http://ilikekillnerds.com/category/javascript/aurelia/)
 - [Personal blog on Aurelia dev / Developer Patrick Walters aka 'PWKAD'](http://patrickwalters.net/)
+- [Personal blog on Aurelia dev / Developer Ashley Grant](http://blog.ashleygrant.com/)
+- [Personal blog of Australian Front End / Aurelia Javascript Developer Dwayne Charrington](http://ilikekillnerds.com/category/javascript/aurelia/)
 - [Personal blog on Aurelia dev / Developer Don Wilcox aka 'drdwilcox'](http://drdwilcox.blogspot.com/)
 - [Personal blog on Aurelia dev / Developer Michael Lambert](http://hobbit-on-aurelia.net/)
 - [Personal blog on Aurelia dev / Developer Sean Hunter](http://sean-hunter.io/)
