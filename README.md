@@ -125,7 +125,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  - [aurelia-api](https://github.com/SpoonX/aurelia-api) {ES6/TS/Webpack} - A wrapper around aurelia-fetch-client for multiple endpoints
  - [aurelia-authentication](https://github.com/SpoonX/aurelia-authentication) {ES6/TS/Webpack} - Authentication plugin for aurelia with aurelia-api support.
  - [aurelia-orm](https://github.com/SpoonX/aurelia-orm) {ES6/TS/Webpack} - Makes working with entities and calling your Rest API simple.
- - [aurelia-notification](https://github.com/SpoonX/aurelia-aurelia-notification) {ES6/TS/Webpack} - Automatically translated notifications utilizing humane.js and i18n
+ - [aurelia-notification](https://github.com/SpoonX/aurelia-notification) {ES6/TS/Webpack} - Automatically translated notifications utilizing humane.js and i18n
  - [aurelia-binding-loader](https://github.com/bryanrsmith/aurelia-binding-loader) - An Aurelia loader for using any module directly from a view template
  - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
