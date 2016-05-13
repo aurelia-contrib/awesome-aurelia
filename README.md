@@ -11,7 +11,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 ## Current Aurelia version
 
-[![GitHub version](https://badge.fury.io/gh/aurelia%2Fframework.svg)](http://badge.fury.io/gh/aurelia%2Fframework)
+[![npm Version](https://img.shields.io/npm/v/aurelia-framework.svg)](https://www.npmjs.com/package/aurelia-framework)
 
 
 ## Table of Contents
