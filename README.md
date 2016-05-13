@@ -127,10 +127,27 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  - [aurelia-orm](https://github.com/SpoonX/aurelia-orm) {ES6/TS/Webpack} - Makes working with entities and calling your Rest API simple.
  - [aurelia-notification](https://github.com/SpoonX/aurelia-notification) {ES6/TS/Webpack} - Automatically translated notifications utilizing humane.js and i18n
  - [aurelia-binding-loader](https://github.com/bryanrsmith/aurelia-binding-loader) - An Aurelia loader for using any module directly from a view template
+ - [aurelia-dragula](https://github.com/michaelmalonenz/aurelia-dragula) - An ES2015 port of the Dragula library, targeted at the Aurelia Framework
+ - [aurelia-breeze](https://github.com/jdanyow/aurelia-breeze) - Everything you need to use Breeze with Aurelia
+ - [aurelia-bootstrap-datepicker](https://github.com/Itprosolutions/aurelia-bootstrap-datepicker) - An aurelia port for bootstrap-datepicker
+ - [Aurelia-Configuration](https://github.com/vheissu/aurelia-configuration) - Smart configuration for your Aurelia applications.
+ - [aurelia-environment](https://github.com/MarcScheib/aurelia-environment) - aurelia-environment provides simple .env parsing and loading
+ - [aurelia-firebase](https://github.com/pulsarblow/aurelia-firebase) - A Firebase plugin for Aurelia https://aureliaonfire.azurewebsites.net
+ - [aurelia-flux](https://github.com/tfrydrychewicz/aurelia-flux) - Flux dispatcher plugin for Aurelia
+ - [aurelia-grid](https://github.com/corneliutusnea/aurelia-grid) - A fresh Aurelia Grid written in TypeScript based charlespockert's Aurelia BS Grid
+ - [aurelia-google-analytics](https://github.com/miguelzakharia/aurelia-google-analytics) - An Aurelia.io plugin that adds Google Analytics page tracking to your project.
+ - [aurelia-knockout](https://github.com/code-chris/aurelia-knockout) - A Knockout plugin for Aurelia
+ - [aurelia-leaflet](https://github.com/ceoaliongroo/aurelia-leaflet) - Leaflet Plugin for Aurelia
+ - [aurelia-notify](https://github.com/MarcScheib/aurelia-notify) - A notification plugin for Aurelia
+ - [aurelia-rethink-bindtable](https://github.com/kristianmandrup/aurelia-rethink-bindtable) - Aurelia bind table integration for RethinkDB via Socket.io
+ - [aurelia-sails-socket-client](https://github.com/Mordred/aurelia-sails-socket-client) - A simple, restful, message-based wrapper around sails.io client
+ - [aurelia-switch](https://github.com/Itprosolutions/aurelia-switch) - An aurelia optimised switchButton
+ - [aurelia-yt-player](https://github.com/genadis/aurelia-yt-player) - Aurelia plugin for Youtube player API
  - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Custom Element
  - [vGrid](https://github.com/vegarringdal/vGrid) - Grid custom element for Aurelia
+ - [aurelia-leaflet](https://github.com/benib/aurelia-leaflet) - A Leaflet CustomElement for Aurelia http://benib.github.io/aurelia-leaflet/
 
 #### Aurelia Auth Samples
  - [sentry](https://github.com/Foursails/sentry) - An Aurelia template with a built in authentication shell
