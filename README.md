@@ -174,6 +174,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  - [Aurelia Typescript](https://github.com/cmichaelgraham/aurelia-typescript) - A starter kit for working with the Aurelia TypeScript type definitions by @cmichaelgraham
  - [aurelia-axel](https://github.com/cmichaelgraham/aurelia-axel) - As a Visual Studio TypeScript and C# developer building web-based, spatial information systems targeting a variety of platforms that leverage ESRI and SQL Server, I want a starter kit so that I can rapidly build implementations
  - [aurelia-axel-northwind](https://github.com/cmichaelgraham/aurelia-axel-northwind) - As a user, I want a walk through of creating a web app from the `aurelia-axel` starter kit, based of a familiar database (Northwind)
+ - [aurelia-skeleton-navigation-gulp-typescript](https://github.com/Enrapt/aurelia-skeleton-navigation-gulp-typescript) - Aurelia navigation skeleton implemented with Gulp and Typescript
  - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 ### ES5
