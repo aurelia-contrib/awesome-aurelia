@@ -149,9 +149,10 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  - [vGrid](https://github.com/vegarringdal/vGrid) - Grid custom element for Aurelia
  - [aurelia-leaflet](https://github.com/benib/aurelia-leaflet) - A Leaflet CustomElement for Aurelia http://benib.github.io/aurelia-leaflet/
 
-#### Aurelia Auth Samples
+#### Aurelia Auth
  - [sentry](https://github.com/Foursails/sentry) - An Aurelia template with a built in authentication shell
  - [aurelia-authentication-loopback-sample](https://github.com/doktordirk/aurelia-authentication-loopback-sample) - Aurelia client sample with aurelia-authentication and loopback server (ES6/TS+jspm, ES6+webpack)
+ - [paulvanbladel/aurelia-identityserver-aspnetcore](https://github.com/paulvanbladel/aurelia-identityserver-aspnetcore) - Sample integrating aurelia with identityserver 4 and docker
 
 #### Aurelia Libraries
  - [pollyfils](https://github.com/aurelia/polyfills) - The minimal set of polyfills needed to run Aurelia
