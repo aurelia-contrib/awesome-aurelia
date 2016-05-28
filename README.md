@@ -143,6 +143,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  - [aurelia-sails-socket-client](https://github.com/Mordred/aurelia-sails-socket-client) - A simple, restful, message-based wrapper around sails.io client
  - [aurelia-switch](https://github.com/Itprosolutions/aurelia-switch) - An aurelia optimised switchButton
  - [aurelia-yt-player](https://github.com/genadis/aurelia-yt-player) - Aurelia plugin for Youtube player API
+ - [aurelia-animator-tinyanimate](https://github.com/gooy/aurelia-animator-tinyanimate) - Implementation of the Aurelia base animator using TinyAnimate
  - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Custom Element
