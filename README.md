@@ -27,6 +27,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
     * [Aurelia Videos](#aurelia-videos)
  *  [Material Design](#material-design)
  *  [Aurelia Plugins](#aurelia-plugins)
+ *  [Aurelia Implementation](#aurelia-implementation)
  *  [Aurelia Custom Element](#aurelia-custom-element)
  *  [Aurelia Auth](#aurelia-auth)
  *  [Aurelia Libraries](#aurelia-libraries)
@@ -143,8 +144,11 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
  - [aurelia-sails-socket-client](https://github.com/Mordred/aurelia-sails-socket-client) - A simple, restful, message-based wrapper around sails.io client
  - [aurelia-switch](https://github.com/Itprosolutions/aurelia-switch) - An aurelia optimised switchButton
  - [aurelia-yt-player](https://github.com/genadis/aurelia-yt-player) - Aurelia plugin for Youtube player API
- - [aurelia-animator-tinyanimate](https://github.com/gooy/aurelia-animator-tinyanimate) - Implementation of the Aurelia base animator using TinyAnimate
  - [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
+
+#### Aurelia Implementation
+  - [aurelia-animator-tinyanimate](https://github.com/gooy/aurelia-animator-tinyanimate) - Implementation of the Aurelia base animator using TinyAnimate
+  - [sukobuto/aurelia-tinymce-sample](https://github.com/sukobuto/aurelia-tinymce-sample) - Sample app with Aurelia and TinyMCE
 
 #### Aurelia Custom Element
  - [vGrid](https://github.com/vegarringdal/vGrid) - Grid custom element for Aurelia
