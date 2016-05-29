@@ -149,6 +149,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 #### Aurelia Implementation
   - [aurelia-animator-tinyanimate](https://github.com/gooy/aurelia-animator-tinyanimate) - Implementation of the Aurelia base animator using TinyAnimate
   - [sukobuto/aurelia-tinymce-sample](https://github.com/sukobuto/aurelia-tinymce-sample) - Sample app with Aurelia and TinyMCE
+  - [stamp-web/stamp-web-aurelia](https://github.com/stamp-web/stamp-web-aurelia) - Next Generation Stamp Web Editor written in Aurelio with Bootstrap
 
 #### Aurelia Custom Element
  - [vGrid](https://github.com/vegarringdal/vGrid) - Grid custom element for Aurelia
