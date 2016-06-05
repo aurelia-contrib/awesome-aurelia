@@ -34,6 +34,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [TypeScript](#typescript)
  * [TypeScript General Resources](#typeScript-general-resources)
  * [Seed Projects](#typescript-seed-projects)
+ * [Examples](#examples)
 * [Aurelia in ES5](#es5)
  * [Seed Projects](#es5-seed-projects) 
 * [Contributing](#contributing-guideline)
@@ -193,6 +194,9 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### ES5 Seed Projects
 - [ahmedshuhel/nav-app-es5](https://github.com/ahmedshuhel/nav-app-es5) Skeleton that sets up a standard aurelia navigation-style app just using ES5, Bower and RequireJS by @ahmedshuhel.
+
+#### Examples
+ - [aurelia-observer-patterns](https://github.com/axwalker/aurelia-observer-patterns) - Simple examples for different methods of implementing observer patterns in Aurelia
 
 # Contributing Guideline
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
