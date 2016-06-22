@@ -86,6 +86,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [Chrome Extension](https://chrome.google.com/webstore/detail/aurelia-context/cghchmoikhedpkkkdnljcfhikedoemma) * This tool is called "Aurelia Context"
 * [vscode-aurelia-snippets](https://github.com/behzad888/vscode-aurelia-snippets) * HTML, JavaScript and TypeScript snippets for VSCode
 * [aurelia-update](https://github.com/SpoonX/aurelia-update) * Update all aurelia dependencies easily.
+* [aurelia-template-lint](https://github.com/MeirionHughes/aurelia-template-lint) * Sanity check of Aurelia-flavor template HTML
 
 #### Seed Project
 
