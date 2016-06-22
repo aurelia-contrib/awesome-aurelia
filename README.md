@@ -184,6 +184,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [stamp-web/stamp-web-aurelia](https://github.com/stamp-web/stamp-web-aurelia) * Next Generation Stamp Web Editor written in Aurelio with Bootstrap
 * [aurelia-tabs](https://github.com/Vheissu/aurelia-tabs) * A dependency free tabs component for your Aurelia applications. Allows you to toggle between sections of content, with supports for dynamically composing views with optional data
 * [aurelia-flickr-ts-memo-game](https://github.com/kst83/aurelia-flickr-ts-memo-game) * Match the pairs type of game written with Aurelia in TypeScript using Flickr
+* [AureliaElectronHappiness](https://github.com/seesharper/AureliaElectronHappiness) * Sample application that shows how to combine TypeScript, VSCode and Electron.
 
 #### Aurelia Custom Element
 
