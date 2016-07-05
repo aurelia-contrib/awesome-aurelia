@@ -175,6 +175,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-switch](https://github.com/Itprosolutions/aurelia-switch) * An aurelia optimised switchButton
 * [aurelia-yt-player](https://github.com/genadis/aurelia-yt-player) * Aurelia plugin for Youtube player API
 * [abalmus/aurelia-ace-editor](https://github.com/abalmus/aurelia-ace-editor) * Aurelia ace editor plugin
+* [Tseberechts/aurelia-place-picker](https://github.com/Tseberechts/aurelia-place-picker) * A place picker inspired by the Autocomplete places with Aurelia
 * [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Implementation
