@@ -87,6 +87,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [vscode-aurelia-snippets](https://github.com/behzad888/vscode-aurelia-snippets) * HTML, JavaScript and TypeScript snippets for VSCode
 * [aurelia-update](https://github.com/SpoonX/aurelia-update) * Update all aurelia dependencies easily.
 * [aurelia-template-lint](https://github.com/MeirionHughes/aurelia-template-lint) * Sanity check of Aurelia-flavor template HTML
+* [atom-aurelia-snippets](https://atom.io/packages/atom-aurelia-snippets) * JavaScript and TypeScript snippets for atom
 
 #### Seed Project
 
