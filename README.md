@@ -209,9 +209,11 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Examples
 
-* [jdanyow/aurelia-breeze-northwind](https://github.com/jdanyow/aurelia-breeze-northwind) A Northwind demo using Aurelia and Breeze by @jdanyow.
-* [jdanyow/aurelia-solitaire](https://github.com/jdanyow/aurelia-solitaire) Klondike solitaire built with Aurelia and dragula.
-* [discosultan/aurelia-minesweeper](https://github.com/discosultan/aurelia-minesweeper/) Classic Minesweeper game built with Aurelia by @discosultan.
+* [jdanyow/aurelia-breeze-northwind](https://github.com/jdanyow/aurelia-breeze-northwind) * A Northwind demo using Aurelia and Breeze by @jdanyow.
+* [jdanyow/aurelia-solitaire](https://github.com/jdanyow/aurelia-solitaire) * Klondike solitaire built with Aurelia and dragula.
+* [discosultan/aurelia-minesweeper](https://github.com/discosultan/aurelia-minesweeper/) * Classic Minesweeper game built with Aurelia by @discosultan.
+* [electron-aurelia-example](https://github.com/jimschubert/electron-aurelia-example) * An example desktop application written with Electron and Aurelia.
+* [aurelia-webapi-example](https://github.com/jimschubert/aurelia-webapi-example) * An example WebAPI written with C# and Aurelia
 
 ### TypeScript
 
