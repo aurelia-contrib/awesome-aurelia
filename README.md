@@ -179,6 +179,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-yt-player](https://github.com/genadis/aurelia-yt-player) * Aurelia plugin for Youtube player API
 * [abalmus/aurelia-ace-editor](https://github.com/abalmus/aurelia-ace-editor) * Aurelia ace editor plugin
 * [Tseberechts/aurelia-place-picker](https://github.com/Tseberechts/aurelia-place-picker) * A place picker inspired by the Autocomplete places with Aurelia
+* [treacherous-aurelia](https://github.com/grofit/treacherous-aurelia) * An Aurelia plugin for the treacherous validation system
 * [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Implementation
