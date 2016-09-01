@@ -182,6 +182,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [treacherous-aurelia](https://github.com/grofit/treacherous-aurelia) * An Aurelia plugin for the treacherous validation system
 * [aurelia-filter](https://github.com/SpoonX/aurelia-filter) * A plugin for aurelia to populate search/filter criteria. Works well with aurelia-orm
 * [aurelia-charts](https://github.com/SpoonX/aurelia-charts) * Graphs plugin for aurelia. Supports all libraries
+* [aurelia-view-manager](https://github.com/SpoonX/aurelia-view-manager) * A view manager for aurelia plugins. Add support for overriding views, and multiple frameworks
 * [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Implementation
@@ -192,6 +193,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-tabs](https://github.com/Vheissu/aurelia-tabs) * A dependency free tabs component for your Aurelia applications. Allows you to toggle between sections of content, with supports for dynamically composing views with optional data
 * [aurelia-flickr-ts-memo-game](https://github.com/kst83/aurelia-flickr-ts-memo-game) * Match the pairs type of game written with Aurelia in TypeScript using Flickr
 * [AureliaElectronHappiness](https://github.com/seesharper/AureliaElectronHappiness) * Sample application that shows how to combine TypeScript, VSCode and Electron.
+* [aurelia-datatable](https://github.com/SpoonX/aurelia-datatable) * A 100% aurelia based data table component [http://aurelia-datatable.spoonx.org](http://aurelia-datatable.spoonx.org)
 
 #### Aurelia Custom Element
 
