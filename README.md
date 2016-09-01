@@ -181,6 +181,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [Tseberechts/aurelia-place-picker](https://github.com/Tseberechts/aurelia-place-picker) * A place picker inspired by the Autocomplete places with Aurelia
 * [treacherous-aurelia](https://github.com/grofit/treacherous-aurelia) * An Aurelia plugin for the treacherous validation system
 * [aurelia-filter](https://github.com/SpoonX/aurelia-filter) * A plugin for aurelia to populate search/filter criteria. Works well with aurelia-orm
+* [aurelia-charts](https://github.com/SpoonX/aurelia-charts) * Graphs plugin for aurelia. Supports all libraries
 * [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Implementation
