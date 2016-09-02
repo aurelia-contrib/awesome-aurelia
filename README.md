@@ -138,6 +138,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [Official Aurelia Material Design (Github)](https://github.com/joelcoxokc/aurelia-interface)
 * [aurelia-mdl](https://github.com/genadis/aurelia-mdl)
 * [aurelia-material](https://github.com/redpelicans/aurelia-material)
+* [aurelia-mdl-plugin](https://github.com/arabsight/aurelia-mdl-plugin) * Material Design Lite plugin for Aurelia
 * [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Plugins
