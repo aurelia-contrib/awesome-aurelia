@@ -79,6 +79,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [Personal blog on Aurelia dev / Developer Sean Hunter](http://sean-hunter.io/)
 * [Personal blog on Aurelia dev / Developer 'Adriatic'](http://blog.aurelia-guides.com/)
 * [Personal blog on Aurelia dev / Developer Paul van Bladel](http://blog.opinionatedapps.com/)
+* [Personal blog on Aurelia dev / Developer Jason Sobell](http://www.sobell.net/category/aurelia/)
 * [Rob Eisenberg's other Blog](http://eisenbergeffect.bluespire.com/)
 
 #### Aurelia Tools
