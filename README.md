@@ -90,6 +90,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-template-lint](https://github.com/MeirionHughes/aurelia-template-lint) * Sanity check of Aurelia-flavor template HTML
 * [atom-aurelia-snippets](https://atom.io/packages/atom-aurelia-snippets) * JavaScript and TypeScript snippets for atom
 * [aurelia-installer](https://github.com/kristianmandrup/aurelia-installer) * CLI for managing Aurelia components and vendor libs
+* [aurelia-debugger](https://github.com/charlespockert/aurelia-debugger) * Visual debug tool for Aurelia
 
 #### Seed Project
 
