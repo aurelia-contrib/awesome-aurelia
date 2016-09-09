@@ -185,6 +185,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-filter](https://github.com/SpoonX/aurelia-filter) * A plugin for aurelia to populate search/filter criteria. Works well with aurelia-orm
 * [aurelia-charts](https://github.com/SpoonX/aurelia-charts) * Graphs plugin for aurelia. Supports all libraries
 * [aurelia-view-manager](https://github.com/SpoonX/aurelia-view-manager) * A view manager for aurelia plugins. Add support for overriding views, and multiple frameworks
+* [aurelia-resize](https://github.com/MeirionHughes/aurelia-resize) * aurelia plugin to observe DOM-element resize events
 * [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Implementation
