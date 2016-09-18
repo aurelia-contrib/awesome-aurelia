@@ -50,7 +50,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 #### Official Resources
 
 * [Official Site](http://aurelia.io)
-* [Official Blog](http://blog.durandal.io)
+* [Official Blog](http://blog.aurelia.io/)
 * [Official Documentation](http://aurelia.io/docs.html)
 * [API Documentation](http://aurelia.io/docs.html#/api/home)
 * [Official Getting Started Guide](http://aurelia.io/docs.html#/aurelia/framework/latest/doc/article/getting-started)
