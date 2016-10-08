@@ -94,6 +94,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 #### Seed Project
 
 * [Beginner kits](https://github.com/aurelia/beginner-kits) * Houses the beginner getting started started kits for ES 2016 and TypeScript.
+* [TypeScript + Webpack Starter Kit](https://github.com/MikeBull94/aurelia-typescript-webpack-starter) * A minimal Aurelia starter kit written in TypeScript and built using webpack.
 * [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Generators
