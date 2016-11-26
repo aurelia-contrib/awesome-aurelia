@@ -124,6 +124,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 ##### Aurelia Videos
 
 * 05.04.2016 [Brian Noyes | Aurelia Fundamentals on Pluralsight.com](https://www.pluralsight.com/courses/aurelia-fundamentals)
+* 03.08.2016 [Discover Aurelia with CEO Rob Eisenberg](https://www.youtube.com/watch?v=fi33aDFKvxE)
 * 11.01.2016 [Rob Eisenberg | Aurelia: Next Generation Web Apps | NDC {London}](https://vimeo.com/153090562)
 * 12.16.2015 [Ashley Grant on Custom Components in Aurelia | Dev Chat](https://www.youtube.com/watch?v=KOCiYJAWXeQ)
 * 12.10.2015 [Jeremy Danyow on Binding | Readthesource 12](https://www.youtube.com/watch?v=NyxGZYgOCuo)
