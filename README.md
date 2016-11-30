@@ -226,6 +226,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [discosultan/aurelia-minesweeper](https://github.com/discosultan/aurelia-minesweeper/) * Classic Minesweeper game built with Aurelia by @discosultan.
 * [electron-aurelia-example](https://github.com/jimschubert/electron-aurelia-example) * An example desktop application written with Electron and Aurelia.
 * [aurelia-webapi-example](https://github.com/jimschubert/aurelia-webapi-example) * An example WebAPI written with C# and Aurelia
+* [MikeBull94/aurelia-hacker-news](https://github.com/MikeBull94/aurelia-hacker-news#aurelia-hacker-news-clone) * A recreation of the Hacker News website written in TypeScript and built using Aurelia, with webpack as a module bundler.
 * [Built with Aurelia](http://builtwithaurelia.com/) * Showcase of examples created by the Aurelia community.
 
 ### TypeScript
