@@ -135,6 +135,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 * [Beginning Of Aurelia](https://leanpub.com/beginning-of-aurelia) * by Behzad Abbasi (behzad888)
 * [Aurelia for Real World Applications](https://leanpub.com/aurelia-for-real-world-applications) by Dwayne Charrington
+* [Practical Aurelia](https://leanpub.com/practical-aurelia) by Behzad Abbasi (behzad888)
 
 #### Material Design
 
@@ -188,6 +189,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-charts](https://github.com/SpoonX/aurelia-charts) * Graphs plugin for aurelia. Supports all libraries
 * [aurelia-view-manager](https://github.com/SpoonX/aurelia-view-manager) * A view manager for aurelia plugins. Add support for overriding views, and multiple frameworks
 * [aurelia-resize](https://github.com/MeirionHughes/aurelia-resize) * aurelia plugin to observe DOM-element resize events
+* [aurelia-keyboard-plugin](https://github.com/Novatrox/aurelia-keyboard-plugin) * Simple keyboard plugin for aurelia
 * [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Implementation
