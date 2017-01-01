@@ -190,6 +190,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-view-manager](https://github.com/SpoonX/aurelia-view-manager) * A view manager for aurelia plugins. Add support for overriding views, and multiple frameworks
 * [aurelia-resize](https://github.com/MeirionHughes/aurelia-resize) * aurelia plugin to observe DOM-element resize events
 * [aurelia-keyboard-plugin](https://github.com/Novatrox/aurelia-keyboard-plugin) * Simple keyboard plugin for aurelia
+* [aurelia-ui-framework](https://github.com/adarshpastakia/aurelia-ui-framework) * A bespoke UI Framework built on Aurelia for desktop business application
 * [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Implementation
