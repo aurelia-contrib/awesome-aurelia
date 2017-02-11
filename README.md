@@ -80,6 +80,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [Personal blog on Aurelia dev / Developer Paul van Bladel](http://blog.opinionatedapps.com/)
 * [Personal blog on Aurelia dev / Developer Jason Sobell](http://www.sobell.net/category/aurelia/)
 * [Rob Eisenberg's other Blog](http://eisenbergeffect.bluespire.com/)
+* [Personal blog of Canadian developer Manuel Guilbault](http://manuelguilbault.com/)
 
 #### Aurelia Tools
 
@@ -136,6 +137,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [Beginning Of Aurelia](https://leanpub.com/beginning-of-aurelia) * by Behzad Abbasi (behzad888)
 * [Aurelia for Real World Applications](https://leanpub.com/aurelia-for-real-world-applications) by Dwayne Charrington
 * [Practical Aurelia](https://leanpub.com/practical-aurelia) by Behzad Abbasi (behzad888)
+* [Learning Aurelia](https://www.packtpub.com/web-development/learning-aurelia) by Manuel Guilbault
 
 #### Material Design
 
