@@ -193,6 +193,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-resize](https://github.com/MeirionHughes/aurelia-resize) * aurelia plugin to observe DOM-element resize events
 * [aurelia-keyboard-plugin](https://github.com/Novatrox/aurelia-keyboard-plugin) * Simple keyboard plugin for aurelia
 * [aurelia-ui-framework](https://github.com/adarshpastakia/aurelia-ui-framework) * A bespoke UI Framework built on Aurelia for desktop business application
+* [aurelia-tags-input](https://github.com/TGMorais/aurelia-tags-input) * An aurelia tags input plugin
 * [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Implementation
