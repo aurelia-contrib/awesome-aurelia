@@ -134,7 +134,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 ##### Aurelia Books
 
-* [Beginning Of Aurelia](https://leanpub.com/beginning-of-aurelia) * by Behzad Abbasi (behzad888)
+* [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia) * by Behzad Abbasi (behzad888)
 * [Aurelia for Real World Applications](https://leanpub.com/aurelia-for-real-world-applications) by Dwayne Charrington
 * [Practical Aurelia](https://leanpub.com/practical-aurelia) by Behzad Abbasi (behzad888)
 * [Learning Aurelia](https://www.packtpub.com/web-development/learning-aurelia) by Manuel Guilbault
