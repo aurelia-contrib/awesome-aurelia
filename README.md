@@ -140,6 +140,10 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [Learning Aurelia](https://www.packtpub.com/web-development/learning-aurelia) by Manuel Guilbault
 * [Amazing Aurelia](https://www.gitbook.com/book/kristianmandrup/aurelia-app-amazement/details) By Kristian Mandrup
 
+##### Aurelia Articles
+
+* [Authorization in Aurelia using CASL](https://medium.com/@sergiy.stotskiy/casl-based-authorization-in-aurelia-app-3e44c0fe1703) * by Sergii Stotskyi (stalniy)
+
 #### Material Design
 
 * [Official Aurelia Material Design (Github)](https://github.com/joelcoxokc/aurelia-interface)
@@ -218,6 +222,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [sentry](https://github.com/Foursails/sentry) * An Aurelia template with a built in authentication shell
 * [aurelia-authentication-loopback-sample](https://github.com/doktordirk/aurelia-authentication-loopback-sample) * Aurelia client sample with aurelia-authentication and loopback server (ES6/TS+jspm, ES6+webpack)
 * [aurelia-identityserver-aspnetcore](https://github.com/paulvanbladel/aurelia-identityserver-aspnetcore) * Sample integrating aurelia with identityserver 4 and docker
+* [casl-aurelia-example](https://github.com/stalniy/casl-aurelia-example) * Example applilcation of authorization in Aurelia app using CASL.
 
 #### Aurelia Libraries
 
