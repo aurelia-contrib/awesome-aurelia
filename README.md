@@ -26,6 +26,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
     * [Aurelia Podcasts](#aurelia-podcasts)
     * [Aurelia Videos](#aurelia-videos)
     * [Aurelia Books](#aurelia-books)
+    * [Aurelia Articles](#aurelia-articles)
   * [Material Design](#material-design)
   * [Aurelia Plugins](#aurelia-plugins)
   * [Aurelia Implementation](#aurelia-implementation)
