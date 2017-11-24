@@ -140,6 +140,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [Practical Aurelia](https://leanpub.com/practical-aurelia) by Behzad Abbasi (behzad888)
 * [Learning Aurelia](https://www.packtpub.com/web-development/learning-aurelia) by Manuel Guilbault
 * [Amazing Aurelia](https://www.gitbook.com/book/kristianmandrup/aurelia-app-amazement/details) By Kristian Mandrup
+* [Aurelia in Action](https://www.manning.com/books/aurelia-in-action) By Sean Hunter
 
 ##### Aurelia Articles
 
