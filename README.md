@@ -201,6 +201,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-keyboard-plugin](https://github.com/Novatrox/aurelia-keyboard-plugin) * Simple keyboard plugin for aurelia
 * [aurelia-ui-framework](https://github.com/adarshpastakia/aurelia-ui-framework) * A bespoke UI Framework built on Aurelia for desktop business application
 * [aurelia-tags-input](https://github.com/TGMorais/aurelia-tags-input) * An aurelia tags input plugin
+* [aurelia-formio](https://github.com/formio/aurelia-formio) * A dynamic JSON Form Renderer and Form Builder - [See Example](https://formio.github.io/aurelia-formio/) 
 * [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Implementation
