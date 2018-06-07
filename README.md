@@ -219,6 +219,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-v-grid](https://github.com/aurelia-ui-toolkits/aurelia-v-grid) * aurelia-v-grid
 * [aurelia-leaflet](https://github.com/benib/aurelia-leaflet) * [A Leaflet CustomElement for Aurelia]( http://benib.github.io/aurelia-leaflet/)
 * [aurelia-chart](https://github.com/grofit/aurelia-chart) * A chart element for aurelia which is powered by chart js using html5 canvas
+* [aurelia-toolbelt](https://github.com/aurelia-toolbelt/aurelia-toolbelt) * A set of components for bootstrap4, it also includes other components and value converters.
 
 #### Aurelia Auth
 
