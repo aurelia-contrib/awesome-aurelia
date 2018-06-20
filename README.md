@@ -126,6 +126,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 ##### Aurelia Videos
 
+* 01.04.2018 [Tutorial Series of Aurelia | AureliaCasts](https://aureliacasts.com/)
 * 05.04.2016 [Brian Noyes | Aurelia Fundamentals on Pluralsight.com](https://www.pluralsight.com/courses/aurelia-fundamentals)
 * 03.08.2016 [Discover Aurelia with CEO Rob Eisenberg](https://www.youtube.com/watch?v=fi33aDFKvxE)
 * 11.01.2016 [Rob Eisenberg | Aurelia: Next Generation Web Apps | NDC {London}](https://vimeo.com/153090562)
