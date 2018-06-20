@@ -61,6 +61,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 #### Community
 
 * [`#aureliajs`](https://twitter.com/hashtag/aureliajs) hashtag on Twitter
+* [Aurelia Forum](https://discourse.aurelia.io/) on Discourse
 * [Gitter Channel](https://gitter.im/Aurelia/Discuss)
 * [Gitter Channel](https://gitter.im/cmichaelgraham/aurelia-typescript) for Aurelia TypeScript
 * [Aurelia StackOverflow](http://stackoverflow.com/questions/tagged/aurelia)
