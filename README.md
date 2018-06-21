@@ -61,6 +61,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 #### Community
 
 * [`#aureliajs`](https://twitter.com/hashtag/aureliajs) hashtag on Twitter
+* [Aurelia Forum](https://discourse.aurelia.io/) on Discourse
 * [Gitter Channel](https://gitter.im/Aurelia/Discuss)
 * [Gitter Channel](https://gitter.im/cmichaelgraham/aurelia-typescript) for Aurelia TypeScript
 * [Aurelia StackOverflow](http://stackoverflow.com/questions/tagged/aurelia)
@@ -125,6 +126,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 ##### Aurelia Videos
 
+* 01.04.2018 [Tutorial Series of Aurelia | AureliaCasts](https://aureliacasts.com/)
 * 05.04.2016 [Brian Noyes | Aurelia Fundamentals on Pluralsight.com](https://www.pluralsight.com/courses/aurelia-fundamentals)
 * 03.08.2016 [Discover Aurelia with CEO Rob Eisenberg](https://www.youtube.com/watch?v=fi33aDFKvxE)
 * 11.01.2016 [Rob Eisenberg | Aurelia: Next Generation Web Apps | NDC {London}](https://vimeo.com/153090562)
@@ -141,6 +143,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [Learning Aurelia](https://www.packtpub.com/web-development/learning-aurelia) by Manuel Guilbault
 * [Amazing Aurelia](https://www.gitbook.com/book/kristianmandrup/aurelia-app-amazement/details) By Kristian Mandrup
 * [Aurelia in Action](https://www.manning.com/books/aurelia-in-action) By Sean Hunter
+* [Hands-On Full Stack Web Development with Aurelia](https://www.packtpub.com/web-development/hands-full-stack-web-development-aurelia) By Diego Argüelles & Erikson Murrugarra
 
 ##### Aurelia Articles
 
