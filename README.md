@@ -205,6 +205,8 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-ui-framework](https://github.com/adarshpastakia/aurelia-ui-framework) * A bespoke UI Framework built on Aurelia for desktop business application
 * [aurelia-tags-input](https://github.com/TGMorais/aurelia-tags-input) * An aurelia tags input plugin
 * [aurelia-formio](https://github.com/formio/aurelia-formio) * A dynamic JSON Form Renderer and Form Builder - [See Example](https://formio.github.io/aurelia-formio/)
+* [aurelia-swipeout](https://github.com/michaelbull/aurelia-swipeout) * A custom element for iOS style swipeout actions - [Demo](https://michaelbull.github.io/aurelia-swipeout/)
+* [aurelia-split-pane](https://github.com/michaelbull/aurelia-split-pane) * A custom element for resizable split panes - [Demo](https://michaelbull.github.io/aurelia-split-pane/)
 * [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Implementation
