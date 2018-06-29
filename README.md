@@ -207,6 +207,8 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-formio](https://github.com/formio/aurelia-formio) * A dynamic JSON Form Renderer and Form Builder - [See Example](https://formio.github.io/aurelia-formio/)
 * [aurelia-swipeout](https://github.com/michaelbull/aurelia-swipeout) * A custom element for iOS style swipeout actions - [Demo](https://michaelbull.github.io/aurelia-swipeout/)
 * [aurelia-split-pane](https://github.com/michaelbull/aurelia-split-pane) * A custom element for resizable split panes - [Demo](https://michaelbull.github.io/aurelia-split-pane/)
+* [aurelia-bootstrap-plugins](https://github.com/ghiscoding/Aurelia-Bootstrap-Plugins) * A set of plugins to bridge with 3rd party Bootstrap addons - [Demo](https://ghiscoding.github.io/Aurelia-Bootstrap-Plugins/)
+* [aurelia-slickgrid](https://github.com/ghiscoding/aurelia-slickgrid) * Slickgrid the best javascript datagrid for performance & customization is now available in Aurelia - [Demo](https://ghiscoding.github.io/aurelia-slickgrid/)
 * [casl-aurelia](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) * Permissions management plugin which allows to integrate Aurelia and CASL
 * [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
