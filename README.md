@@ -82,7 +82,11 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [Personal blog on Aurelia dev / Developer Paul van Bladel](http://blog.opinionatedapps.com/)
 * [Personal blog on Aurelia dev / Developer Jason Sobell](http://www.sobell.net/category/aurelia/)
 * [Rob Eisenberg's other Blog](http://eisenbergeffect.bluespire.com/)
+* [Medium posts by Aurelia Core team member Erik Lieben](https://medium.com/@eriklieben)
 * [Personal blog of Canadian developer Manuel Guilbault](http://manuelguilbault.com/)
+* [Personal blog of Canadian developer Jeremy Gonzalez](http://www.jeremyg.net/)
+* [Personal blog of German developer Katharina Bähr](https://kabaehr.de/)
+* [Personal blog of American developer Eric L. Anderson](https://elanderson.net/tag/aurelia/)
 
 #### Aurelia Tools
 
@@ -114,6 +118,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [Aurelia Value Converters](https://jdanyow.github.io/aurelia-converters-sample/)
 * [Aurelia & Framework7 vs. Angular2 & Ionic2](http://www.jujens.eu/posts/en/2016/Mar/15/ionic2-aurelia-f7/)
 * [Aurelia-styleguide](https://github.com/behzad888/Aurelia-styleguide) * A starting point for Aurelia development teams to provide consistency through best practices.
+* [Aurelia Tutorial | TutorialsPoint](https://www.tutorialspoint.com/aurelia/index.htm)
 
 ##### Aurelia Podcasts
 
@@ -126,7 +131,9 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 ##### Aurelia Videos
 
+* 02.20.2018 [Aurelia For Beginners: The New Age JS Framework | Packt](https://www.packtpub.com/application-development/aurelia-beginners-new-age-js-framework-video)
 * 01.04.2018 [Tutorial Series of Aurelia | AureliaCasts](https://aureliacasts.com/)
+* 02.28.2017 [Aurelia Web Development - Part 1 | Packt](https://www.packtpub.com/web-development/aurelia-web-development-part-1-video)
 * 05.04.2016 [Brian Noyes | Aurelia Fundamentals on Pluralsight.com](https://www.pluralsight.com/courses/aurelia-fundamentals)
 * 03.08.2016 [Discover Aurelia with CEO Rob Eisenberg](https://www.youtube.com/watch?v=fi33aDFKvxE)
 * 11.01.2016 [Rob Eisenberg | Aurelia: Next Generation Web Apps | NDC {London}](https://vimeo.com/153090562)
@@ -228,6 +235,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-leaflet](https://github.com/benib/aurelia-leaflet) * [A Leaflet CustomElement for Aurelia]( http://benib.github.io/aurelia-leaflet/)
 * [aurelia-chart](https://github.com/grofit/aurelia-chart) * A chart element for aurelia which is powered by chart js using html5 canvas
 * [aurelia-toolbelt](https://github.com/aurelia-toolbelt/aurelia-toolbelt) * A set of components for bootstrap4, it also includes other components and value converters.
+* [ag-grid-aurelia](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-aurelia) * The Aurelia Component for use with ag-Grid, an advanced data grid/data table - [Demo](https://www.ag-grid.com/best-aurelia-data-grid/)
 
 #### Aurelia Auth
 
