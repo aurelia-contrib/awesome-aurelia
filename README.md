@@ -217,6 +217,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-bootstrap-plugins](https://github.com/ghiscoding/Aurelia-Bootstrap-Plugins) * A set of plugins to bridge with 3rd party Bootstrap addons - [Demo](https://ghiscoding.github.io/Aurelia-Bootstrap-Plugins/)
 * [aurelia-slickgrid](https://github.com/ghiscoding/aurelia-slickgrid) * Slickgrid the best javascript datagrid for performance & customization is now available in Aurelia - [Demo](https://ghiscoding.github.io/aurelia-slickgrid/)
 * [casl-aurelia](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) * Permissions management plugin which allows to integrate Aurelia and CASL
+* [aurelia-json-schema-form](https://github.com/jbockle/aurelia-json-schema-form) * A completely customizable plugin to dynamically generate forms & validate them based on JSON schema
 * [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Implementation
