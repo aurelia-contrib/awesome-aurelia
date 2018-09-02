@@ -90,7 +90,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Tools
 
-* [Chrome Extension](https://chrome.google.com/webstore/detail/aurelia-context/cghchmoikhedpkkkdnljcfhikedoemma) * This tool is called "Aurelia Context"
+* [Chrome Extension](https://chrome.google.com/webstore/detail/aurelia-inspector/ofemgdknaajmpeoblfdjkenbpcfbdefg) * This tool is called "Aurelia Inspector"
 * [vscode-aurelia-snippets](https://github.com/behzad888/vscode-aurelia-snippets) * HTML, JavaScript and TypeScript snippets for VSCode
 * [aurelia-update](https://github.com/SpoonX/aurelia-update) * Update all aurelia dependencies easily.
 * [aurelia-template-lint](https://github.com/MeirionHughes/aurelia-template-lint) * Sanity check of Aurelia-flavor template HTML
