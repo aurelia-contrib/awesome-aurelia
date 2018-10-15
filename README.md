@@ -33,6 +33,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
   * [Aurelia Custom Element](#aurelia-custom-element)
   * [Aurelia Auth](#aurelia-auth)
   * [Aurelia Libraries](#aurelia-libraries)
+  * [Aurelia Examples](#aurelia-examples)
 * [TypeScript](#typescript)
   * [TypeScript General Resources](#typeScript-general-resources)
   * [Seed Projects](#typescript-seed-projects)
@@ -229,7 +230,6 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [stamp-web/stamp-web-aurelia](https://github.com/stamp-web/stamp-web-aurelia) * Next Generation Stamp Web Editor written in Aurelio with Bootstrap
 * [aurelia-tabs](https://github.com/Vheissu/aurelia-tabs) * A dependency free tabs component for your Aurelia applications. Allows you to toggle between sections of content, with supports for dynamically composing views with optional data
 * [aurelia-flickr-ts-memo-game](https://github.com/kst83/aurelia-flickr-ts-memo-game) * Match the pairs type of game written with Aurelia in TypeScript using Flickr
-* [AureliaElectronHappiness](https://github.com/seesharper/AureliaElectronHappiness) * Sample application that shows how to combine TypeScript, VSCode and Electron.
 * [aurelia-datatable](https://github.com/SpoonX/aurelia-datatable) * A 100% aurelia based data table component [http://aurelia-datatable.spoonx.org](http://aurelia-datatable.spoonx.org)
 
 #### Aurelia Custom Element
@@ -259,10 +259,14 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [jdanyow/aurelia-breeze-northwind](https://github.com/jdanyow/aurelia-breeze-northwind) * A Northwind demo using Aurelia and Breeze by @jdanyow.
 * [jdanyow/aurelia-solitaire](https://github.com/jdanyow/aurelia-solitaire) * Klondike solitaire built with Aurelia and dragula.
 * [discosultan/aurelia-minesweeper](https://github.com/discosultan/aurelia-minesweeper/) * Classic Minesweeper game built with Aurelia by @discosultan.
-* [electron-aurelia-example](https://github.com/jimschubert/electron-aurelia-example) * An example desktop application written with Electron and Aurelia.
 * [aurelia-webapi-example](https://github.com/jimschubert/aurelia-webapi-example) * An example WebAPI written with C# and Aurelia
 * [michaelbull/aurelia-hacker-news](https://github.com/michaelbull/aurelia-hacker-news#aurelia-hacker-news-clone) * A recreation of the Hacker News website written in TypeScript and built using Aurelia, with webpack as a module bundler.
 * [Built with Aurelia](http://builtwithaurelia.com/) * Showcase of examples created by the Aurelia community.
+
+##### Aurelia + Electron Examples
+* [aurelia-electron-webpack](https://github.com/timfish/aurelia-electron-webpack) * A basic boilerplate to build Electron apps with Aurelia, Typescript, and Webpack.
+* [AureliaElectronHappiness](https://github.com/seesharper/AureliaElectronHappiness) * Sample application that shows how to combine TypeScript, VSCode and Electron.
+* [electron-aurelia-example](https://github.com/jimschubert/electron-aurelia-example) * An example desktop application written with Electron and Aurelia.
 
 ### TypeScript
 
