@@ -264,6 +264,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [Built with Aurelia](http://builtwithaurelia.com/) * Showcase of examples created by the Aurelia community.
 
 ##### Aurelia + Electron Examples
+
 * [aurelia-electron-webpack](https://github.com/timfish/aurelia-electron-webpack) * A basic boilerplate to build Electron apps with Aurelia, Typescript, and Webpack.
 * [AureliaElectronHappiness](https://github.com/seesharper/AureliaElectronHappiness) * Sample application that shows how to combine TypeScript, VSCode and Electron.
 * [electron-aurelia-example](https://github.com/jimschubert/electron-aurelia-example) * An example desktop application written with Electron and Aurelia.
