@@ -153,6 +153,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [Amazing Aurelia](https://www.gitbook.com/book/kristianmandrup/aurelia-app-amazement/details) By Kristian Mandrup
 * [Aurelia in Action](https://www.manning.com/books/aurelia-in-action) By Sean Hunter
 * [Hands-On Full Stack Web Development with Aurelia](https://www.packtpub.com/web-development/hands-full-stack-web-development-aurelia) By Diego Argüelles & Erikson Murrugarra
+* [Mastering Aurelia Store](https://leanpub.com/mastering-aurelia-store) By Dwayne Charrington
 
 ##### Aurelia Articles
 
