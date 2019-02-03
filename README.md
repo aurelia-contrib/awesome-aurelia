@@ -179,6 +179,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [webpack-plugin](https://github.com/aurelia/webpack-plugin) {official} * A plugin for webpack that enables bundling Aurelia applications
 * [aurelia-cycle](https://github.com/niieani/aurelia-cycle) * An Aurelia plugin that enables the use of Cycle.js inside of Aurelia
 * [aurelia-kendoui-bridge](https://github.com/aurelia-ui-toolkits/aurelia-kendoui-bridge) * Aurelia and KendoUI integration
+* [aurelia-long-click-event](https://github.com/avrahamcool/aurelia-long-click-event) * Add delegate/trigger capabilities for long click.
 * [aurelia-react-loader](https://github.com/bryanrsmith/aurelia-react-loader) * Load React components directly from Aurelia views
 * [aurelia-validatejs](https://github.com/aurelia/validatejs) {official} * Enables expressive validation using decorators and/or a fluent API.
 * [aurelia-view-pipeline](https://github.com/behzad888/aurelia-view-pipeline) * A plugin for loading any Markdown into custom element
