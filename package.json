@@ -12,16 +12,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/behzad888/awesome-aurelia.git"
+    "url": "git+https://github.com/aurelia-contrib/awesome-aurelia.git"
   },
   "keywords": [
     "aurelia",
     "awesome"
   ],
-  "author": "Alexandru Badiu",
+  "authors": ["Alexandru Badiu","Behzad Abbaso"],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/behzad888/awesome-aurelia/issues"
+    "url": "https://github.com/aurelia-contrib/awesome-aurelia/issues"
   },
-  "homepage": "https://github.com/behzad888/awesome-aurelia#readme"
+  "homepage": "https://github.com/aurelia-contrib/awesome-aurelia#readme"
 }
