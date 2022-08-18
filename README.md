@@ -279,6 +279,8 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 > TypeScript lets you write JavaScript the way you really want to. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
+For a Difference Between TypeScript and JavaScript see: [Here](https://www.scaler.com/topics/typescript-vs-javascript/)
+
 #### TypeScript General Resources
 
 * [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
